@@ -1,5 +1,4 @@
 
-#Classifying-Textual-Data-with-Fuzzy-KNN-
 Program uses Stanford's Corenlp for some of the NER work.
 
 To use, you need to train with documents that are seperated class folders.
