@@ -14,9 +14,8 @@ import javax.swing.WindowConstants;
 
 
 /**
- * HW3 KNN Textual Data
+ * KNN Textual Data
  * Jason Chan
- * JWC516@nyu.edu
  *
  */
 public class App 
